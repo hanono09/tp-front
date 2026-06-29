@@ -7,7 +7,7 @@ Plataforma para buscar, explorar y rankear zapatillas. Construida con React + Vi
 
 ---
 
-## Stack
+## Stack 
 
 - **Frontend**: React 18 + Vite
 - **Estilos**: Tailwind CSS
